@@ -2,3 +2,5 @@ coloredlogs
 requests
 web3
 timeout_decorator
+eth-keyfile>=0.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
+websockets>=10.0 # not directly required, pinned by Snyk to avoid a vulnerability
