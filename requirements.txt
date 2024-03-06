@@ -2,3 +2,4 @@ coloredlogs
 requests
 web3
 timeout_decorator
+eth-abi>=5.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
